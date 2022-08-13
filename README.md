@@ -1,4 +1,7 @@
 # BASICA-Games
+
+![YAHTZEE Game Board](YAHTZEE.png)
+
 This is a small but classic collection of [BASICA](https://en.wikipedia.org/wiki/IBM_BASIC#IBM_Advanced_BASIC) games (and chess program) from 1984. The origins are unknown, it was simply two floppy disks that appeared soon after an IBM PC 5150 with 5151 monochrome monitor was installed in our graphic arts class for typesetting, one with the BASICA games and the other with an executable chess program.
 
 At some point, I printed out the source listing for the BASICA games which was a good thing because soon after, the floppy disk with the BASICA games slipped behind the wall and the countertop - it's probably still there and will be until the school is torn down.
