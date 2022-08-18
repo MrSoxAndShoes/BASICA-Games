@@ -41,4 +41,4 @@ Over a few days, I painstakingly typed in the code from the printed listings and
 
 ![CHESS Game](images/CHESS_intro.png)
 ![CHESS Game](images/CHESS_instructions.png)
-![CHESS Game](images/CHESS+board.png)
+![CHESS Game](images/CHESS_board.png)
