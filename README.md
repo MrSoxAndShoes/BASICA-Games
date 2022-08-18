@@ -8,6 +8,8 @@ At some point, I printed out the source listing for the BASICA games which was a
 
 Over a few days, I painstakingly typed in the code from the printed listings and, because we had two new IBM PCjr PCs with color monitors in the classroom, added color to two of the games.
 
+---
+
 **[ELIZA.BAS](ELIZA.BAS)**: "[**ELIZA**](https://en.wikipedia.org/wiki/ELIZA) is an early natural language processing computer program created from 1964 to 1966 at the MIT Artificial Intelligence Laboratory by Joseph Weizenbaum."
 
 ![ELIZA Program](images/ELIZA.png)
